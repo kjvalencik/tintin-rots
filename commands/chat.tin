@@ -1,0 +1,21 @@
+#nop // Send chats to log file
+
+#var chat_file {logs/chat.log}
+
+#action {~%1 tells you '%2} {#line log $chat_file}
+#action {~%1 chats '%2} {#line log $chat_file}
+#action {~%1 narrates '%2} {#line log $chat_file}
+#action {~%1 sings '%2} {#line log $chat_file}
+#action {~%1 says '%2} {#line log $chat_file}
+#action {~%1 group-says '%2} {#line log $chat_file}
+#action {~%1 yells '%2} {#line log $chat_file}
+#action {~%1 whispers to you, '%2} {#line log $chat_file}
+#action {~%1 petitions %2} {#line log $chat_file}
+#action {~%1 wiznets %2} {#line log $chat_file}
+#action {~You tell %1 '%2} {#line log $chat_file}
+#action {~You chat '%1} {#line log $chat_file}
+#action {~You narrate '%1} {#line log $chat_file}
+#action {~You sing '%1} {#line log $chat_file}
+#action {~You say '%1} {#line log $chat_file}
+#action {~You group-say '%1} {#line log $chat_file}
+#action {~You yell '%1} {#line log $chat_file}

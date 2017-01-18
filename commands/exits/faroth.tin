@@ -1,0 +1,184 @@
+#nop // Faroth
+
+#sub {A Bleached Skeleton} {A Bleached Skeleton: wsnnsnnnswsen}
+#sub {A Clear Spring} {A Clear Spring: weswsen}
+#sub {A Frightening Warning} {A Frightening Warning: wsnssen}
+#sub {A Gushing Spring} {A Gushing Spring: nssssen}
+#sub {A Lazy Waterfall} {A Lazy Waterfall: seswsen}
+#sub {A Low Riverbank} {A Low Riverbank: eewen}
+#sub {A Shallow Bog} {A Shallow Bog: nwwen M:wsnwesnsn}
+#sub {A Stone Quarry} {A Stone Quarry: swnwwsen}
+#sub {Abused Woods} {Abused Woods: ennnswsen M:sn}
+#sub {Alter of Bones} {Alter of Bones: snnnsnnnswsen}
+#sub {Ancient Trees} {Ancient Trees: nswsen}
+#sub {Bed of Stones} {Bed of Stones: ewen}
+#sub {Before a Cave} {Before a Cave: wneen}
+#sub {Bending River} {Bending River: ewnsnnsnnnswsen}
+#sub {Between Cliffs} {Between Cliffs: ewnssen}
+#sub {Blackened Rocks} {Blackened Rocks: wnwwsen}
+#sub {Break in the Trees} {Break in the Trees: n M:wswwnnwnw C:wnwnwnnnn}
+#sub {Broad Depression} {Broad Depression: snnnswsen M:wnwnnn}
+#sub {Broad Forest Trail} {Broad Forest Trail: nswsen}
+#sub {Broadening River} {Broadening River: neewen}
+#sub {Broken Earth} {Broken Earth: esnnsnnnswsen}
+#sub {Bundles of Trees} {Bundles of Trees: wesesneewen}
+#sub {Burnt Trees} {Burnt Trees: essnsswsen}
+#sub {Burrowing Trails} {Burrowing Trails: nwsewnssen}
+#sub {Buzzing Woods} {Buzzing Woods: swewwen}
+#sub {Calm River} {Calm River: wneewen}
+#sub {Circle of Maples} {Circle of Maples: snewwen M:wwwnwnnn}
+#sub {Circle of Rocks} {Circle of Rocks: wennswewwen}
+#sub {Clear River} {Clear River: esneewen}
+#sub {Clearing in the Woods} {Clearing in the Woods: nssssswsen}
+#sub {Confined Feeling} {Confined Feeling: nnswsen}
+#sub {Coniferous Trees} {Coniferous Trees: newsnnnswsen}
+#sub {Crowded Foliage} {Crowded Foliage: ennswewwen}
+#sub {Crumbling Woods} {Crumbling Woods: enssssswsen}
+#sub {Crushed Trees} {Crushed Trees: eewsnnnswsen}
+#sub {Cursed Woods} {Cursed Woods: snnsnnnswsen}
+#sub {Damp Forest Floor} {Damp Forest Floor: esen M:wwnnwnw}
+#sub {Dancing Eyes} {Dancing Eyes: wwnsswsen}
+#sub {Dark Dreary Forest} {Dark Dreary Forest: sssen}
+#sub {Dark Forest Path} {Dark Forest Path: nssen}
+#sub {Dark River Waters} {Dark River Waters: nnweewen}
+#sub {Dark and Dreadful Forest} {Dark and Dreadful Forest: wesen}
+#sub {Dead Trees} {Dead Trees: nwwsen}
+#sub {Deafening Current} {Deafening Current: weewen}
+#sub {Decorative Skeletons} {Decorative Skeletons: esnnnsnnnswsen}
+#sub {Decrepit Shack} {Decrepit Shack: nsewnssen}
+#sub {Deep Dark Pond} {Deep Dark Pond: eneen}
+#sub {Deepening River} {Deepening River: seewen}
+#sub {Deepening Waters} {Deepening Waters: esneewen}
+#sub {Dense Canopy} {Dense Canopy: enwewwen}
+#sub {Dimly-lit Woods} {Dimly-lit Woods: ewewen}
+#sub {Disappearing Trail} {Disappearing Trail: sssswsen}
+#sub {Dry Forest} {Dry Forest: ssssen}
+#sub {Echo of Silence} {Echo of Silence: eensewnssen}
+#sub {Eerie Vapors} {Eerie Vapors: nnsswsen}
+#sub {Endless Trees} {Endless Trees: ewwen}
+#sub {Entrance to the Hidden Vale} {Entrance to the Hidden Vale: enneeseeneenesene}
+#sub {Eryn Lasgalien} {Eryn Lasgalien: ensewnssen}
+#sub {Eryn Vorn} {Eryn Vorn: wsnwnnswewwen}
+#sub {Eternal Darkness} {Eternal Darkness: wewewen M:snsn}
+#sub {Faint Forest Trail} {Faint Forest Trail: ewsen}
+#sub {Fallen Logs} {Fallen Logs: ewsnnnswsen}
+#sub {Fields of Death} {Fields of Death: nenwsewnssen}
+#sub {Fiery Forest} {Fiery Forest: nwwewwen M:nwesnsn}
+#sub {Flowerless Fields} {Flowerless Fields: swsewnssen M:w}
+#sub {Foggy Woods} {Foggy Woods: nsnwnnswewwen}
+#sub {Forest Loops} {Forest Loops: ssnssen M:nsn}
+#sub {Forest of Dawn} {Forest of Dawn: wwewwen M:wesnsn}
+#sub {Forest of Despair} {Forest of Despair: wnnsnnnswsen}
+#sub {Forest of Shadows} {Forest of Shadows: snsswsen}
+#sub {Forest of Thorns} {Forest of Thorns: nwnnwsewnssen}
+#sub {Forest of Twilight} {Forest of Twilight: sesneewen}
+#sub {Forested Valley} {Forested Valley: nnewwen}
+#sub {Forsaken Forest} {Forsaken Forest: nsssnsswsen C:nnn}
+#sub {Fresh Droppings} {Fresh Droppings: nwewwen}
+#sub {Furry Trees} {Furry Trees: wnsswsen}
+#sub {Game Trail} {Game Trail: wwsen}
+#sub {Gloomy Woods} {Gloomy Woods: snssen}
+#sub {Glowing Eyes} {Glowing Eyes: wnnwsewnssen}
+#sub {Golden Leaves} {Golden Leaves: wnwewwen}
+#sub {Grassy Knoll} {Grassy Knoll: nnenwsewnssen}
+#sub {Heart of Darkness} {Heart of Darkness: ssnssen M:wnw}
+#sub {Holly Bushes} {Holly Bushes: ennnswsen}
+#sub {Hot Geysers} {Hot Geysers: wssswsen}
+#sub {Imprinted Tracks} {Imprinted Tracks: ewnwewen}
+#sub {Intersecting Trails} {Intersecting Trails: nnsnnnswsen}
+#sub {Intimidating Trees} {Intimidating Trees: snssssswsen}
+#sub {Jagged Rocks} {Jagged Rocks: wessnssen M:nwwwnwnnn}
+#sub {Kill Site} {Kill Site: nnnswsen}
+#sub {Layers of Leaves} {Layers of Leaves: nnssssswsen}
+#sub {Leaving the River} {Leaving the River: wewen}
+#sub {Looming Trees} {Looming Trees: een}
+#sub {Lost Woods} {Lost Woods: wssssen}
+#sub {Lost in the Forest} {Lost in the Forest: ewsen}
+#sub {Luminous Forest} {Luminous Forest: snssen M:nnn}
+#sub {Marked Grave} {Marked Grave: eewsen}
+#sub {Massive Cold Campfire} {Massive Cold Campfire: esnsswsen}
+#sub {Massive Hives} {Massive Hives: wnnssssswsen}
+#sub {Massive Nests} {Massive Nests: ewnsswsen}
+#sub {Massive Paw Prints} {Massive Paw Prints: sen M:nnwnw}
+#sub {Massive Pines} {Massive Pines: ewsnnnswsen M:snwesnsn C:nnnn}
+#sub {Menacing Trees} {Menacing Trees: wewwen M:esnsn}
+#sub {Misplaced Boulder} {Misplaced Boulder: newwen M:snwwwnwnnn}
+#sub {Moldy Mushrooms} {Moldy Mushrooms: sswsen}
+#sub {Monument Hill} {Monument Hill: nsssen}
+#sub {Motionless Trees} {Motionless Trees: nwnsswsen}
+#sub {Mounds of Sand} {Mounds of Sand: ssesneewen M:nw}
+#sub {Muddy Forest Trail} {Muddy Forest Trail: nwewen}
+#sub {Muddy Riverway} {Muddy Riverway: sesneewen}
+#sub {Overgrown Forest Path} {Overgrown Forest Path: nsswsen}
+#sub {Overgrown Graveyard} {Overgrown Graveyard: wen}
+#sub {Pale Mist} {Pale Mist: nsnsswsen}
+#sub {Parched Forest} {Parched Forest: swewwen}
+#sub {Patches of Mushrooms} {Patches of Mushrooms: nnwsewnssen}
+#sub {Piles of Acorns} {Piles of Acorns: nsnnsnnnswsen}
+#sub {Placid Creek} {Placid Creek: nwsewnssen}
+#sub {Poisonous Thorns} {Poisonous Thorns: wnweewen}
+#sub {Pools of Blood} {Pools of Blood: wsnssssswsen}
+#sub {Puddles of Mud} {Puddles of Mud: ewnnsnnnswsen M:nn}
+#sub {Rabbit Holes} {Rabbit Holes: nnnsnnnswsen M:wnwsnwesnsn C:wnwnnnn}
+#sub {Raging River} {Raging River: wnsnnsnnnswsen}
+#sub {Rainbow Woods} {Rainbow Woods: ssnnnsnnnswsen M:nwsnwesnsn C:nwnnnn}
+#sub {Rent Oaks} {Rent Oaks: nwneen M:wnnn C:n}
+#sub {Rocky Forest Pathway} {Rocky Forest Pathway: snwnnswewwen}
+#sub {Rotting Carcass} {Rotting Carcass: wnwewen}
+#sub {Rows of Stumps} {Row of Stumps: sseen}
+#sub {Rustling Leaves} {Rustling Leaves: esesneewen}
+#sub {Sand Dunes} {Sand Dunes: ewsnnsnnnswsen}
+#sub {Sandy Fields} {Sandy Fields: sesewnssen}
+#sub {Sandy Knoll} {Sandy Knoll: nsewnssen}
+#sub {Scattered Bones} {Scattered Bones: nennnswsen}
+#sub {Scene of Struggle} {Scene of Struggle: swnsswsen}
+#sub {Shadowed Gully} {Shadowed Gully: sewnssen}
+#sub {Shallow Riverway} {Shallow Riverway: sneesen}
+#sub {Sharp Thorns} {Sharp Thorns: nsswsen}
+#sub {Shifting Sands} {Shifting Sands: wsewnssen}
+#sub {Shining Waters} {Shining Waters: nsneewen}
+#sub {Silent Path} {Silent Path: nnsnnsnnnswsen}
+#sub {Skeletal Trees} {Skeletal Trees: snsswsen}
+#sub {Sleepy Forest} {Sleepy Forest: wewwen}
+#sub {Smell of Rot} {Smell of Rot: wnssssswsen}
+#sub {Soft Dirt} {Soft Dirt: sewnssen}
+#sub {Sparkling River} {Sparkling River: sewnsnnsnnnswsen}
+#sub {Splintered Trees} {Splintered Trees: neen}
+#sub {Steep Clifface} {Steep Clifface: nsnsswsen}
+#sub {Stench of Blood} {Stench of Blood: ssssswsen}
+#sub {Streams of Wildflowers} {Streams of Wildflowers: nsnnnswsen}
+#sub {Stuffy Woods} {Stuffy Woods: ewwen}
+#sub {Swaying Treetops} {Swaying Treetops: ssnsswsen}
+#sub {Swirling Breezes} {Swirling Breezes: nennswewwen}
+#sub {Swirling Waters} {Swirling Waters: nweewen}
+#sub {Tangled Roots} {Tangled Roots: essnssen}
+#sub {Tangled Underbrush} {Tangled Underbrush: nsnsswsen}
+#sub {Taur-en-Faroth} {Taur-en-Faroth: en M:swwnnwnw C:nwnwnnnn}
+#sub {Taur-im-Duinath} {Taur-im-Duinath: ssswsen}
+#sub {Thick Brushcover} {Thick Brushcover: swsen}
+#sub {Thick Gnarled Trees} {Thick Gnarled Trees: swssssen}
+#sub {Thin Birches} {Thin Birches: nnnsnnnswsen}
+#sub {Thinning Forest} {Thinning Forest: ssen}
+#sub {Thorned Vines} {Thorned Vines: seen}
+#sub {Towering Elms} {Towering Elms: nswewwen}
+#sub {Tracks in the Sand} {Tracks in the Sand: nwsewnssen}
+#sub {Trail of Blood} {Trail of Blood: wsnnnswsen M:wwnwnnn}
+#sub {Trail of Drool} {Trail of Drool: sswsen}
+#sub {Twisted Branches} {Twisted Branches: neewsnnnswsen M:n}
+#sub {Twisted Roots} {Twisted Roots: snsewnssen}
+#sub {Twisting Forest Trail} {Twisting Forest Trail: esnsswsen}
+#sub {Undisturbed Forest} {Undisturbed Forest: eswsen}
+#sub {Uneven Forest Floor} {Uneven Forest Floor: wwwsen}
+#sub {Vacant Treetops} {Vacant Treetops: ewsnnnswsen}
+#sub {Vanishing Forest Trail} {Vanishing Forest Trail: wsen M:wnnwnw}
+#sub {Vine-covered River} {Vine-covered River: nseen}
+#sub {Wall of Rock} {Wall of Rock: wewnssen M:nwnw}
+#sub {Wall of Vines} {Wall of Vines: wwen}
+#sub {Warm Breeze} {Warm Breeze: eewsen}
+#sub {Webbed Trees} {Webbed Trees: nwnnswewwen}
+#sub {Weedy Path} {Weedy Path: ensswsen}
+#sub {Wet Forest} {Wet Forest: nnnenwsewnssen}
+#sub {Whispering Trees} {Whispering Trees: sssnsswsen M:nwnnn C:nn}
+#sub {Wild Brush} {Wild Brush: nnswewwen M:wsnwwwnwnnn}
+#sub {Withered Branches} {Withered Branches: esewnssen}
+#sub {Withered Branchs} {Withered Branchs: neeen}

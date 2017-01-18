@@ -1,0 +1,5 @@
+#nop // F1 to connect to Return of the Shadow
+#macro {\eOP} {#ses r rotsmud.dyndns.org 3791}
+
+#nop // Flee once
+#action {PANIC!} {f}
