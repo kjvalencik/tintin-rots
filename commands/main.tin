@@ -1,5 +1,6 @@
 #read {commands/chat.tin}
 #read {commands/general.tin}
+#read {commands/hud.tin}
 #read {commands/login.tin}
 #read {commands/ride.tin}
 #read {commands/spams.tin}

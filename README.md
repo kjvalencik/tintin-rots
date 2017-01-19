@@ -10,6 +10,7 @@ Scripts for playing [Return of the Shadow][rots] with [TinTin++][tintin] and
 1. [Tmux Basics](#tmux-basics)
 1. [General](#general)
 1. [Chat Window](#chat-window)
+1. [Heads-Up Display](#huds-up-display)
 1. [Spams](#spams)
 1. [Ride](#ride)
 1. [Login](#login)
@@ -61,6 +62,14 @@ To resize the chat window. Hit `Ctrl+b`, then:
 # To make chat smaller, type
 :resize-pane -U 1
 ```
+
+### [Heads-Up Display](/commands/hud.tin)
+
+Provides the most recent output from the `stat` and `score` commands. Refreshed
+every 10 seconds. It is a known issue that the output from the `stat` and
+`score` commands is suppressed if manually run in the middle of an update tick.
+
+Resize with the same commands as [chat](#chat-window).
 
 ### [Spams](/commands/spams.tin)
 
@@ -126,6 +135,7 @@ command file for the character's class.
 
 ## TODO
 
+* [ ] Make HUD tick configurable
 * [ ] Make chat window location and size configurable
 * [ ] Keep spams on the road where possible
 * [ ] Add spams from `bedtoravine` and `ravinetofount` (matron?)

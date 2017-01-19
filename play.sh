@@ -30,4 +30,6 @@ tm kill-session -t "$session" > /dev/null 2>&1 || true
 tm new-session -d -s "$session" "${cur}/lib/tintin.sh"
 tm split-window -v -l 10 -b -t "$session" "${cur}/lib/chat.sh"
 tm select-pane -t 0
+tm split-window -v -l 6 -t "$session" "${cur}/lib/hud.sh"
+tm select-pane -t 0
 tm -2 attach-session -t "$session"
