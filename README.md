@@ -93,6 +93,8 @@ E.g., `bedtodfr` would also have `dfrtobed`.
 	the Warpath*.
 * `fiddstomile`: From *Road to Dale at the Entrance to the Fiddlers' Inn* to
 	*Old Forest Road Before a Large Milestone* on the Road to Dale.
+* `fiddstonettles`: From *Road to Dale at the Entrance to the Fiddlers' Inn* to
+	*Shadowy Nettle* above the shaggy bear cave.
 * `globstobone`: From *Spiked Barricade* outside of Glob's Barricade to *A Bone
 	Sculpture* in southeast Mirkwood.
 * `lttofidds`: From *On the Bridge before the Guard Post* outside Vinyanost to

@@ -8,11 +8,13 @@
 #alias {dockstobridge} {e;e;e;e;e;s;e;e;e;n;n;e;e;e;e;s;e;s;e;e;e;e;n;n;e;e;s;e;e;e;e;e;n;e;e;e;s;e;e;s;e;e;e;e;e;e;e;s;s;e;e;e;s;e;e;e;s;e;s;e;e;e;e;s;s;s;s;e;e;e;e;e;e;e;e;e;n;e;e;e;e;e}
 #alias {fiddstolt} {n;n;n;w;n;n;n;e;n;n;n;n;n;n;n;n;n;n;n;n;w;n;n;w;n;n;n;n;e;e;e;e;n;n;n;e;e;e}
 #alias {fiddstomile} {s;w;s;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;w;s;s;s;s;w;s;w}
+#alias {fiddstonettles} {s;w;s;s;w;s;w;w;w;w;w;w;w;w;w;w;s;w;s;w;s;u;n;n;w;w;w;w;u;n;n;n;w}
 #alias {lttofidds} {w;w;w;s;s;s;w;w;w;w;s;s;s;s;e;s;s;e;s;s;s;s;s;s;s;s;s;s;s;s;w;s;s;s;e;s;s;s}
 #alias {lttot} {w;w;w;s;s;s;w;w;w;w;w;w;w;w;w;w;w;w;n;w;w;w;n;w;w;n;w;w;w;n;w;w;w;w;n;w;n;w;w;w;w;w;w;w;w;w;w;w;n;u}
 #alias {mbtovinny} {s;s;s;e;s;s;s;s;w;s;s;s;e;s;s;s;s;w;s;s;s;s;s;s;s;s;s;s;w;s;s;e;s;s;s;e;s;s;s;w;s;s;s;s;e;s;s;s;w;s;s;u;s;s;s;s;s;e;s;s;s;s}
 #alias {miletodfr} {s;s;w;w;s;w;n;w;w;w;w;n;n;w;w;s;w;s;w;w;w;n;n;w;w;w;n;w;w;w;w;w;n;w;w;s;s;w;w;s;s;s;w;n;n;n;w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;w;s;w;s;w;w;n;w;n;w;w;w;s;w;w;w;w;w;w;n;w;w;w;w;w;w;w;w;w}
 #alias {miletofidds} {e;n;e;n;n;n;n;e;n;n;n;n;n;n;n;n;n;n;n;n;n;n;w;n;n;e;n}
+#alias {nettlestofidds} {e;s;s;s;d;e;e;e;e;s;s;d;n;e;n;e;n;e;e;e;e;e;e;e;e;e;e;n;e;n;n;e;n}
 #alias {rctovinny} {e;e;s;s;s;s;s;e;s;s;s;e;s;s;e;d;e;e;e;e;d;e;e;s;e;e;s;d;d;e;e;e;e;u;e;e;e;e;e;e;e;e;e;e;e;e;e;e}
 #alias {ttobridge} {d;s;s;s;s;w;w;w;w;w;w;w;w;s;w;w;w;w;w;w;s;s;w;w;w;w;w;s;w;w;w;w;w;w;w;w;w;s;w;w;w;s;s;w;w;w;s;s;w;w;w;w;w;n;w;s;w;w;w;n;w;s;w;w;w;w;w;n;n;n;n;w;w;w;n;w;w}
 #alias {ttolt} {d;s;e;e;e;e;e;e;e;e;e;e;e;s;e;s;e;e;e;e;s;e;e;e;s;e;e;s;e;e;e;s;e;e;e;e;e;e;e;e;e;e;e;e;n;n;n;e;e;e}
