@@ -66,8 +66,7 @@ To resize the chat window. Hit `Ctrl+b`, then:
 ### [Heads-Up Display](/commands/hud.tin)
 
 Provides the most recent output from the `stat` and `score` commands. Refreshed
-every 10 seconds. It is a known issue that the output from the `stat` and
-`score` commands is suppressed if manually run in the middle of an update tick.
+every 10 seconds.
 
 Resize with the same commands as [chat](#chat-window).
 

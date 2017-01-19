@@ -3,11 +3,14 @@
 #var hud_file {logs/hud.log}
 
 #nop // Define variables
-#var updating_hud {false}
 #var stat_line1 {}
 #var stat_line2 {}
 #var sc_line1 {}
 #var sc_line2 {}
+#var tpl_stat_line1 {Your fatigue is %1; Your willpower is %2; Your statistics are}
+#var tpl_stat_line2 {Str: %1, Int: %2, Wil: %3, Dex: %4, Con: %5, Lea: %6.}
+#var tpl_sc_line1 {You have %1 hit, %2 stamina, %3 moves, %4 spirit.}
+#var tpl_sc_line2 {OB: %1, DB: %2, PB: %3, Speed: %4, Gold: %5, XP Needed: %6.}
 
 #alias gag_prompt {
 	#act {^$} {
@@ -26,34 +29,59 @@
 	#line log $hud_file {$stat_line1\n$stat_line2\n\n$sc_line1\n$sc_line2}
 };
 
-#nop // Capture `stat` command
-#action {Your fatigue is %1; Your willpower is %2; Your statistics are} {
-	#if {"$updating_hud" == "true"} {#line {gag}};
-	#var stat_line1 %0
-}
+#nop // Captures with gag
+#alias capture_hud_gag {
+	#nop // Capture `stat` command;
+	#action {$tpl_stat_line1} {
+		#line {gag};
+		#var stat_line1 %%0;
 
-#action {Str: %1, Int: %2, Wil: %3, Dex: %4, Con: %5, Lea: %6.} {
-	#var stat_line2 %0;
-	#if {"$updating_hud" == "true"} {#line {gag}; gag_prompt};
-	#if {"$updating_hud" != "true"} {hud_log}
-}
+		#nop // Capture without gag;
+		#action {$tpl_stat_line1} {
+			#var stat_line1 %%0
+		}
+	};
 
-#nop // Capture the `score` command
-#action {You have %1 hit, %2 stamina, %3 moves, %4 spirit.} {
-	#if {"$updating_hud" == "true"} {#line {gag}};
-	#var sc_line1 %0
-}
+	#action {$tpl_stat_line2} {
+		#var stat_line2 %%0;
+		#line {gag};
+		gag_prompt;
 
-#action {OB: %1, DB: %2, PB: %3, Speed: %4, Gold: %5, XP Needed: %6.} {
-	#var sc_line2 %0;
-	#if {"$updating_hud" == "true"} {#line {gag}; gag_prompt};
-	hud_log;
-	#var updating_hud {false}
+		#nop // Capture without gag;
+		#action {$tpl_stat_line2} {
+			#var stat_line2 %%0;
+			hud_log
+		};
+	};
+
+	#nop // Capture the `score` command;
+	#action {$tpl_sc_line1} {
+		#line {gag};
+		#var sc_line1 %%0;
+
+		#nop // Capture without gag;
+		#action {$tpl_sc_line1} {
+			#var sc_line1 %%0
+		};
+	};
+
+	#action {$tpl_sc_line2} {
+		#var sc_line2 %%0;
+		#line {gag};
+		gag_prompt;
+		hud_log;
+
+		#nop // Capture without gag;
+		#action {$tpl_sc_line2} {
+			#var sc_line2 %%0;
+			hud_log
+		};
+	}
 }
 
 #nop // Run `stat` and `score` periodically
 #alias update_hud {
-	#var updating_hud {true};
+	capture_hud_gag;
 	stat;
 	score
 }
