@@ -38,7 +38,7 @@
 
 		#nop // Capture without gag;
 		#action {$tpl_stat_line1} {
-			#var stat_line1 %%0
+			#var stat_line1 %%%0
 		}
 	};
 
@@ -49,7 +49,7 @@
 
 		#nop // Capture without gag;
 		#action {$tpl_stat_line2} {
-			#var stat_line2 %%0;
+			#var stat_line2 %%%0;
 			hud_log
 		};
 	};
@@ -61,7 +61,7 @@
 
 		#nop // Capture without gag;
 		#action {$tpl_sc_line1} {
-			#var sc_line1 %%0
+			#var sc_line1 %%%0
 		};
 	};
 
@@ -73,7 +73,7 @@
 
 		#nop // Capture without gag;
 		#action {$tpl_sc_line2} {
-			#var sc_line2 %%0;
+			#var sc_line2 %%%0;
 			hud_log
 		};
 	}
