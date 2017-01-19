@@ -3,3 +3,7 @@
 
 #nop // Flee once
 #action {PANIC!} {f}
+
+#nop // Disable tickers while afk
+#action {You go away from keyboard.} {#ignore ticker on}
+#action {You return to your keyboard.} {#ignore ticker off}
