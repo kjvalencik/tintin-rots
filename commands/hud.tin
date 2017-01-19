@@ -18,8 +18,8 @@
 		#line gag
 	};
 
-	#act {^>$} {
-		#unact {^>$};
+	#act {>$} {
+		#unact {>$};
 		#line gag
 	}
 }
