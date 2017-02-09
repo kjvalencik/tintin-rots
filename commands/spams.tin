@@ -18,6 +18,8 @@
 #alias {rctovinny} {e;e;s;s;s;s;s;e;s;s;s;e;s;s;e;d;e;e;e;e;d;e;e;s;e;e;s;d;d;e;e;e;e;u;e;e;e;e;e;e;e;e;e;e;e;e;e;e}
 #alias {ttobridge} {d;s;s;s;s;w;w;w;w;w;w;w;w;s;w;w;w;w;w;w;s;s;w;w;w;w;w;s;w;w;w;w;w;w;w;w;w;s;w;w;w;s;s;w;w;w;s;s;w;w;w;w;w;n;w;s;w;w;w;n;w;s;w;w;w;w;w;n;n;n;n;w;w;w;n;w;w}
 #alias {ttolt} {d;s;e;e;e;e;e;e;e;e;e;e;e;s;e;s;e;e;e;e;s;e;e;e;s;e;e;s;e;e;e;s;e;e;e;e;e;e;e;e;e;e;e;e;n;n;n;e;e;e}
+#alias {ttopebble} {d;s;s;s;s;w;w;w;w;w;w;w;w;s;w;w;w;w;w;w;n}
+#alias {pebbletot} {s;e;e;e;e;e;e;n;e;e;e;e;e;e;e;e;n;n;n;n;u}
 #alias {vinnytobed} {e;e;e;s;e;n;n;e;e;n;e;e;e;e;e;e;e;e;n;n;e;e;e;e;s;e;s;e;e;e;e;e;e;n;e;e;e;e;s;e;e;e;e;s;e;s;e;e}
 #alias {vinnytomb} {n;n;n;n;w;n;n;n;n;n;d;n;n;e;n;n;n;w;n;n;n;n;e;n;n;n;w;n;n;n;w;n;n;e;n;n;n;n;n;n;n;n;n;n;e;n;n;n;n;w;n;n;n;e;n;n;n;n;w;n;n;n}
 #alias {vinnytorc} {w;w;w;w;w;w;w;w;;w;w;w;w;w;d;w;w;w;w;u;u;n;w;w;n;w;w;u;w;w;w;w;u;w;n;n;w;n;n;n;w;n;n;n;n;n;w;w}

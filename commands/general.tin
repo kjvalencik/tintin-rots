@@ -4,6 +4,12 @@
 #nop // Flee once
 #action {PANIC!} {f}
 
+#nop // Loot coins
+#action {^You receive your share of experience} {get coin corp}
+
 #nop // Disable tickers while afk
 #action {You go away from keyboard.} {#ignore ticker on}
 #action {You return to your keyboard.} {#ignore ticker off}
+
+#nop // Educated guess at our current enemy
+#action {^HP:%1%S:{[^:]+}>} {#var enemy %2}
